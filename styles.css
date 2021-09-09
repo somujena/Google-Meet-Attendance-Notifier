@@ -1,0 +1,22 @@
+#container{
+    width: 130px;
+    height: 77px;
+    margin-top: 6px;
+    margin-right: 6px;
+    margin-bottom: 6px;
+    margin-left: 6px;
+}
+
+#btn{
+    margin-left: 5px;
+    margin-bottom: 7px;
+    position: absolute;
+    bottom: 0;
+}
+
+#textInfo{
+    font-weight: 500;
+    font-size: 13px;
+    color: rgb(250, 62, 62);
+    margin-left: 5px;
+}
